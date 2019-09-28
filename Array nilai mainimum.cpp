@@ -27,4 +27,7 @@ int main() {
   }
 
   cout << "Nilai minimum adalah " << minimum << " berada di elemen ke " << lokasi << endl;
+  
+  //source:http://www.kopicoding.com/nilai-minimum-array-cpp/
+  
 }
